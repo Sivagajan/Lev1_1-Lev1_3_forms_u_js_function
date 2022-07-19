@@ -1,0 +1,14 @@
+main{
+    text-align: center;
+    margin-top: 300px;
+}
+
+#year{
+    display: block;
+    text-align: center;
+    margin: 5px auto;
+}
+
+table{
+margin: auto;
+}
